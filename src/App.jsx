@@ -890,7 +890,7 @@ export default function Portfolio() {
               <strong>Nota: </strong>,
               "RepoDeclara está diseñado como un repositorio de espejo (mirroring) de la información ya presentada ante la autoridad. Los cálculos internos de accesorios se presentan únicamente como una herramienta de validación forense para identificar posibles discrepancias en los registros originales.",
             ],
-            src: "https://repo-declara.vercel.app/",
+            src: "https://repo-finanzas.vercel.app/",
           },
         ],
 
